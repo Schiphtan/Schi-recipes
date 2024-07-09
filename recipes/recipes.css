@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(32, 32, 16);
+}
+
+img{
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(48, 48, 2);
+}
+
+h3{
+    color: rgb(32, 32, 16);
+
+}
+
+body ul{
+    display:inline-block;
+    font-weight: 700;
+}
+
+body ol{
+    display: inline-block;
+    font-weight:700;
+}
